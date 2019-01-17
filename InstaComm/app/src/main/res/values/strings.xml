@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">InstaComm</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="btnCreateComment">Create a Comment by Double Tapping</string>
+    <string name="txt_return">Long Tap on The Comment You Wish To Select</string>
+    <string name="txt_name">Name:</string>
+    <string name="txt_surname">Surname:</string>
+    <string name="chk_premium">Register as Premium</string>
+    <string name="btnMake">Make a Comment</string>
+    <string name="add">Add a Comment</string>
+    <string name="log">Logout</string>
+    <string name="select">Select A Category</string>
+    <string name="select_comm">Select A Comment</string>
+    <string-array name="types">
+        <item>Shocked</item>
+        <item>Cute</item>
+        <item>Funny</item>
+        <item>Scared</item>
+        <item>Supportive</item>
+    </string-array>
+    <string name="txt_username">Username:</string>
+    <string name="txt_password">Password:</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
